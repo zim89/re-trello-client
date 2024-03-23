@@ -33,7 +33,7 @@ export default function RootLayout({
 
         <Toaster
           theme='dark'
-          position='top-right'
+          position='bottom-right'
           duration={5000}
         />
       </body>
